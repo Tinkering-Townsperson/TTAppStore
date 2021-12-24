@@ -1,2 +1,2 @@
 # TTAppStore
-The gui of https://github.com/Tinkering-Townsperson/Choco-Winstallers
+The gui of [Choco-Winstallers](https://github.com/Tinkering-Townsperson/Choco-Winstallers)
